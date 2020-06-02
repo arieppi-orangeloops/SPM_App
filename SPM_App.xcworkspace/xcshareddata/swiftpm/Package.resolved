@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Demo",
+        "repositoryURL": "git@github.com:arieppi-orangeloops/Demo.git",
+        "state": {
+          "branch": null,
+          "revision": "77f76fb12636c5fd3fedc9d61a343890788934c9",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "Lottie",
+        "repositoryURL": "https://github.com/airbnb/lottie-ios",
+        "state": {
+          "branch": null,
+          "revision": "4e5877425dae5c10792fc9d22d53dc6bf6824dc1",
+          "version": "3.1.8"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
